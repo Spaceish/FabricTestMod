@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "testmod",
   "version": "${version}",
 
-  "name": "Example Mod",
+  "name": "Test Mod",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "SpaceDot."
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
